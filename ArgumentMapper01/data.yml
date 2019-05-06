@@ -1,0 +1,6 @@
+---
+app_name: argumentmapper-api
+instance_count: 3
+consul_base_path: argumentmapper/api
+docker_repository: repo.activated.io:10501
+docker_image: something/argumentmapper

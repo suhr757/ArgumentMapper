@@ -1,0 +1,7 @@
+<config>
+    <server>network-sql</server>
+    <database>network_local</database>
+    <url>jdbc:sqlserver://network-sql:1433;databaseName=argumentmapper_local</url>
+    <user>network_local_dbo</user>
+    <password>Argumentmapper_dbo15</password>
+</config>
